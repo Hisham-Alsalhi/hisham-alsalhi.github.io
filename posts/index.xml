@@ -22,5 +22,12 @@
       <guid>https://hisham-alsalhi.github.io/posts/my-second-post/</guid>
       <description>&lt;h1 id=&#34;another-hello&#34;&gt;Another Hello&lt;/h1&gt;</description>
     </item>
+    <item>
+      <title>My Third Post</title>
+      <link>https://hisham-alsalhi.github.io/posts/my-third-post/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://hisham-alsalhi.github.io/posts/my-third-post/</guid>
+      <description>&lt;h1 id=&#34;3rd-hello&#34;&gt;3rd Hello&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
